@@ -1,0 +1,57 @@
+E-commerce Website: Create an online shopping platform where users can browse products, add items to their shopping carts, and complete the purchase using Java Servlets and JSP. You can implement features like user authentication, product catalog management, order processing, and payment integration.
+Online Banking System: Develop an internet banking application that allows users to perform various banking operations like balance inquiries, fund transfers, bill payments, and transaction history. Use Java Servlets and JSP for handling user requests, database interactions, and generating dynamic web pages.
+
+[Your Name]
+[Your Contact Information: Phone Number, Email Address, LinkedIn Profile]
+
+Objective:
+Highly motivated and skilled Java Developer with 1 year and 11 months of professional experience seeking a challenging role to contribute to the development of robust and scalable software solutions. Committed to delivering high-quality code and continuously expanding knowledge in Java and related technologies.
+
+Education:
+- Bachelor of Science in Computer Science
+  [University Name], [Location]
+  [Year of Graduation]
+
+Skills:
+- Programming Languages: Java, SQL, HTML, CSS
+- Java Technologies: Java EE, Spring Framework (Spring Boot, Spring MVC), Hibernate
+- Web Technologies: Servlets, JSP, RESTful Web Services
+- Database Systems: MySQL, Oracle
+- Version Control Systems: Git, SVN
+- IDEs and Tools: Eclipse, IntelliJ IDEA, Maven, JUnit
+- Software Development Methodologies: Agile, Scrum
+- Problem Solving and Analytical Skills
+- Strong Communication and Collaboration Abilities
+- Attention to Detail and Strong Debugging Skills
+
+Professional Experience:
+[Company Name], [Location]
+[Position], [Start Date] - [End Date]
+
+- Collaborated with a team of developers to design and develop scalable and efficient Java-based web applications.
+- Implemented new features and enhancements using Java, Spring MVC, and Hibernate, following coding best practices and design patterns.
+- Utilized SQL and database management systems to handle data manipulation and database integration tasks.
+- Participated in code reviews to ensure code quality, performance, and adherence to coding standards.
+- Developed and executed unit tests using JUnit to ensure proper functionality and identify and resolve any bugs or issues.
+- Worked closely with cross-functional teams, including QA, to ensure smooth deployment and release cycles.
+- Actively contributed to the design and improvement of the application's architecture and functionality.
+- Collaborated with stakeholders to gather requirements, provide technical recommendations, and deliver solutions that meet business needs.
+
+Projects:
+1. Project Name: [Project Name]
+   Description: [Briefly describe the project, including its purpose, technologies used, and your role in the project.]
+
+2. Project Name: [Project Name]
+   Description: [Briefly describe the project, including its purpose, technologies used, and your role in the project.]
+
+Certifications:
+- [Certification Name], [Year]
+
+Languages:
+- English (Fluent)
+- [Additional languages if applicable]
+
+References:
+Available upon request
+
+Note: Customize the resume with your specific experience, projects, and achievements. Include any relevant certifications, internships, or open-source contributions.
