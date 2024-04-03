@@ -1,5 +1,3 @@
-Sure, here is a sample README.md file description tailored for a Java Server Pages project:
-
 # Java Server Pages Project
 
 This repository contains the source code for a Java Server Pages (JSP) project.
